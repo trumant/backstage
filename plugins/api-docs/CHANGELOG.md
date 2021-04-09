@@ -1,5 +1,14 @@
 # @backstage/plugin-api-docs
 
+## 0.4.11
+
+### Patch Changes
+
+- 5cafcf452: add debounce time attribute for apis-docs for search, giving more time to the users when they are typing.
+- Updated dependencies [5cafcf452]
+- Updated dependencies [e27cb6c45]
+  - @backstage/core@0.7.5
+
 ## 0.4.10
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @backstage/core
 
+## 0.7.5
+
+### Patch Changes
+
+- 5cafcf452: add debounce time attribute for apis-docs for search, giving more time to the users when they are typing.
+- e27cb6c45: Don't use a drag & drop cursor when clicking on disabled `IconLinkVertical`.
+
 ## 0.7.4
 
 ### Patch Changes
